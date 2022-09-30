@@ -1,0 +1,14 @@
+#text {
+    color: pink;
+}
+
+#blinkText {
+    color: whitesmoke;
+    transition: 0.5s;
+    font-style: italic;
+}
+
+body {
+    background-color: rebeccapurple;
+    color: salmon;
+}
